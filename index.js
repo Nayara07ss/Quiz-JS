@@ -91,6 +91,7 @@ const perguntas = [
     }
   ];
   
+  
   // Seleciona o elemento HTML com o ID "quiz"
   const quiz = document.querySelector('#quiz');
   // Seleciona o elemento HTML "template"
