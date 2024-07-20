@@ -1,95 +1,98 @@
+Claro! Aqui está o quiz com perguntas de conhecimentos gerais e fáceis de tecnologia:
+
+```javascript
 const perguntas = [
     {
-      pergunta: "Qual é o nome do personagem interpretado por Ryan Gosling em La La Land?",
+      pergunta: "Qual é o nome do fundador da Microsoft?",
       respostas: [
-        "A) Sebastian",
-        "B) Mia",
-        "C) Keith"
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Quem dirigiu o filme La La Land?",
-      respostas: [
-        "A) Christopher Nolan",
-        "B) Damien Chazelle",
-        "C) Quentin Tarantino"
+        "A) Steve Jobs",
+        "B) Bill Gates",
+        "C) Mark Zuckerberg"
       ],
       correta: 1
     },
     {
-      pergunta: "Em qual cidade se passa a maior parte da história de La La Land?",
+      pergunta: "O que significa a sigla CPU em tecnologia?",
       respostas: [
-        "A) Nova York",
-        "B) Paris",
-        "C) Los Angeles"
+        "A) Central Processing Unit",
+        "B) Central Power Unit",
+        "C) Central Program Unit"
       ],
-      correta: 2
+      correta: 0
     },
     {
-      pergunta: "Qual é a profissão de Mia, interpretada por Emma Stone?",
+      pergunta: "Qual é o sistema operacional móvel desenvolvido pela Google?",
       respostas: [
-        "A) Cantora",
-        "B) Atriz",
-        "C) Bailarina"
+        "A) iOS",
+        "B) Android",
+        "C) Windows Phone"
       ],
       correta: 1
     },
     {
-      pergunta: "Qual prêmio o filme La La Land ganhou no Oscar 2017?",
+      pergunta: "O que é HTML usado para criar?",
       respostas: [
-        "A) Melhor Filme",
-        "B) Melhor Diretor",
-        "C) Nenhum prêmio"
+        "A) Aplicativos de desktop",
+        "B) Páginas web",
+        "C) Softwares de sistema"
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Qual empresa desenvolveu o navegador web Chrome?",
+      respostas: [
+        "A) Microsoft",
+        "B) Apple",
+        "C) Google"
       ],
       correta: 2
     },
     {
-      pergunta: "Quem interpreta o papel do chefe de Sebastian, Keith?",
+      pergunta: "O que significa a sigla Wi-Fi?",
       respostas: [
-        "A) John Legend",
-        "B) Bradley Cooper",
-        "C) Justin Timberlake"
+        "A) Wireless Fidelity",
+        "B) Wireless Finder",
+        "C) Wired Fidelity"
       ],
       correta: 0
     },
     {
-      pergunta: "Qual é o gênero principal do filme La La Land?",
+      pergunta: "Qual linguagem de programação é conhecida como a linguagem da web?",
       respostas: [
-        "A) Comédia",
-        "B) Drama",
-        "C) Musical"
+        "A) Python",
+        "B) JavaScript",
+        "C) C++"
       ],
-      correta: 2
+      correta: 1
     },
     {
-      pergunta: "Quantos Oscars o filme La La Land ganhou?",
+      pergunta: "Qual é o nome do assistente virtual da Amazon?",
       respostas: [
-        "A) 3",
-        "B) 5",
-        "C) 7"
+        "A) Siri",
+        "B) Alexa",
+        "C) Cortana"
       ],
-      correta: 0
+      correta: 1
     },
     {
-      pergunta: "Qual é o nome da música principal de La La Land?",
+      pergunta: "Qual é a rede social mais popular do mundo?",
       respostas: [
-        "A) City of Stars",
-        "B) Another Day of Sun",
-        "C) Audition (The Fools Who Dream)"
+        "A) Twitter",
+        "B) Facebook",
+        "C) LinkedIn"
       ],
-      correta: 0
+      correta: 1
     },
     {
-      pergunta: "Em que ano La La Land foi lançado?",
+      pergunta: "Qual é a função do software antivírus?",
       respostas: [
-        "A) 2014",
-        "B) 2016",
-        "C) 2018"
+        "A) Melhorar a velocidade do computador",
+        "B) Proteger contra malware e vírus",
+        "C) Atualizar o sistema operacional"
       ],
       correta: 1
     }
-  ];
+];
   
   
   // Seleciona o elemento HTML com o ID "quiz"
