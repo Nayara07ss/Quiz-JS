@@ -1,6 +1,4 @@
-Claro! Aqui está o quiz com perguntas de conhecimentos gerais e fáceis de tecnologia:
 
-```javascript
 const perguntas = [
     {
       pergunta: "Qual é o nome do fundador da Microsoft?",
