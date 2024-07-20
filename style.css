@@ -47,6 +47,7 @@ header h1 {
   margin-top: 24px;
   font-size: 26px; /* Define o tamanho da fonte */
   color:#e2f8f8;
+  padding-bottom: 24px;
 }
 
 #quiz {
